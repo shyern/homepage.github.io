@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Haoyue Shi"
-description              : "I am a 4th-year Ph.D. student of artificial intelligence at Xi’an Jiaotong University, advised by Prof. Le Wang. "
-repository               : "https://github.com/shyern"
+description              : "I am a 4th-year Ph.D. student of artificial intelligence at Xi’an Jiaotong University, advised by Prof. Le Wang"
+repository               : "shyern/homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Haoyue Shi"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "I am a 4th-year Ph.D. student of artificial intelligence at Xi’an Jiaotong University, advised by Prof. Le Wang."
+  location         : "Xi’an, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Al2u46EAAAAJ&hl=en&oi=ao"
+  email            : "shyern3@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
