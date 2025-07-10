@@ -37,16 +37,15 @@ From November 2023 to November 2024, I joined the [University of Illinois Chicag
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/learning2024.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/learning2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Learning Anomalies with Normality Prior for Unsupervised Video Anomaly Detection
 
 **Haoyue Shi**, Le Wang, Sanping Zhou, Gang Hua, and Wei Tang.
 
-[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-72658-3_10) [**Code**]()
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-72658-3_10) [**Code**](https://github.com/shyern/LANP-UVAD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
