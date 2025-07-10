@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoyue Shi"
-description              : "I am a 4th-year Ph.D. student of artificial intelligence at Xi’an Jiaotong University, advised by Prof. Le Wang"
+# description              : "I am a 4th-year Ph.D. student of artificial intelligence at Xi’an Jiaotong University, advised by Prof. Le Wang"
 repository               : "shyern/homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoyue Shi"
   avatar           : "images/pic1.jpg"
-  bio              : "I am a 4th-year Ph.D. student of artificial intelligence at Xi’an Jiaotong University, advised by Prof. Le Wang."
+  # bio              : "I am a 4th-year Ph.D. student of artificial intelligence at Xi’an Jiaotong University, advised by Prof. Le Wang."
   location         : "Xi’an, China"
   employer         :
   pubmed           : 
