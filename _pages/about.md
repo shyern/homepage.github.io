@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  h1 { font-size: 28px !important; }
+  h2 { font-size: 24px !important; }
+  h3 { font-size: 20px !important; }
+  p, li { font-size: 18px !important; }
+  .paper-box-text { font-size: 14px !important; }
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -36,32 +44,101 @@ From November 2023 to November 2024, I joined the [University of Illinois Chicag
 - *2020.08*：&nbsp;🎉🎉 One [paper](https://www.bmvc2020-conference.com/assets/papers/0406.pdf) on person image generation got accepted by BMVC 2020.
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/learning2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Learning Anomalies with Normality Prior for Unsupervised Video Anomaly Detection
-
-**Haoyue Shi**, Le Wang, Sanping Zhou, Gang Hua, and Wei Tang.
-
-[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-72658-3_10) [**Code**](https://github.com/shyern/LANP-UVAD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/learning2024.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Learning Anomalies with Normality Prior for Unsupervised Video Anomaly Detection</h3>
+    <p style="margin: 0 0 10px 0;"><strong><u>Haoyue Shi</u></strong>, Le Wang, Sanping Zhou, Gang Hua, and Wei Tang</p>
+    <p style="margin: 0 0 10px 0;">ECCV 2024</p>
+    <p style="margin: 0;">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-72658-3_10">Paper</a> |
+      <a href="https://github.com/shyern/LANP-UVAD">Code</a>
+      </p>
+  </div>
 </div>
+
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/abnormal2023.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Abnormal Ratios Guided Multi-Phase Self-Training for Weakly-Supervised Video Anomaly Detection</h3>
+    <p style="margin: 0 0 10px 0;"><strong><u>Haoyue Shi</u></strong>, Le Wang, Sanping Zhou, Gang Hua, and Wei Tang</p>
+    <p style="margin: 0 0 10px 0;">IEEE Transactions on Multimedia 2023</p>
+    <p style="margin: 0;">
+      <a href="https://ieeexplore.ieee.org/document/10330089">Paper</a> |
+      </p>
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/memory2023.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Memory-augmented appearance-motion network for video anomaly detection</h3>
+    <p style="margin: 0 0 10px 0;">Le Wang, Junwen Tian, Sanping Zhou, <strong><u>Haoyue Shi</u></strong>, Gang Hua, and Wei Tang</p>
+    <p style="margin: 0 0 10px 0;">Pattern Recognition 2023</p>
+    <p style="margin: 0;">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0031320323000365">Paper</a> |
+      <a href="https://github.com/Owen-Tian/MAAM-Net">Code</a>
+      </p>
+  </div>
+</div>
+
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/loss2021.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Loss functions for pose guided person image generation</h3>
+    <p style="margin: 0 0 10px 0;"><strong><u>Haoyue Shi</u></strong>, Le Wang, Nanning Zheng, Gang Hua, and Wei Tang</p>
+    <p style="margin: 0 0 10px 0;">Pattern Recognition 2021</p>
+    <p style="margin: 0;">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0031320321005318">Paper</a> |
+      </p>
+  </div>
+</div>
+
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/loss2020.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Loss Functions for Person Image Generation</h3>
+    <p style="margin: 0 0 10px 0;"><strong><u>Haoyue Shi</u></strong>, Le Wang, Wei Tang, Nanning Zheng, and Gang Hua </p>
+    <p style="margin: 0 0 10px 0;">BMVC 2020</p>
+    <p style="margin: 0;">
+      <a href="https://www.bmvc2020-conference.com/assets/papers/0406.pdf">Paper</a> |
+      </p>
+  </div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Outstanding Graduate Student (Xi'an Jiaotong University), 2024. 
+- China Mobile Scholarship (Xi’an Jiaotong University), 2024.
+- Special Scholarship for Doctoral Students (Xi’an Jiaotong University), 2023
+- Baosheng Hu Scholarship (Xi’an Jiaotong University), 2021
+- Outstanding Undergraduate Thesis Award (Northwest A&F University), 2019
+- Third Prize, The 3rd China Data Mining Competition, 2018
+- President’s Scholarship (Northwest A&F University), 2018
+- National Endeavor Scholarship (Northwest A&F University), 2016 & 2017
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2025.07 (now)*, Xi’an Jiaotong University, Ph.D. in Control Science and Engineering
+- *2023.11 – 2024.11*, University of Illinois Chicago, Visiting Scholar in Computer Science
+- *2015.09 – 2019.07*, Northwest A&F University, B.E. in Software Engineering
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Professional services
+## Conference Reviewer
+* CVPR, ICCV, ECCV
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## Journal Reviewer
+* PR, TMM, MVAP, SIVP
+
+# 💬 Posters
+- *2024.10*, European Conferenceon Computer Vision, Milan, Italy
+- *2024.09*, Midwest Computer Vision Workshop, Indiana University, USA
+
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
