@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haoyue Shi"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/pic1.jpg"
   bio              : "I am a 4th-year Ph.D. student of artificial intelligence at Xi’an Jiaotong University, advised by Prof. Le Wang."
   location         : "Xi’an, China"
   employer         :

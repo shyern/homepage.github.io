@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. candidate in Institute of Artificial Intelligence and Robotics at [Xi’an Jiaotong University](http://www.aiar.xjtu.edu.cn/), advised by Prof. [Le Wang](https://scholar.google.com/citations?user=RypRCUQAAAAJ&hl=en&oi=ao).  I was also very glad to have the opportunity to be advised by Prof. [Sanping Zhou](https://scholar.google.com/citations?user=2Drvv44AAAAJ&hl=en). 
+From November 2023 to November 2024, I joined the [University of Illinois Chicago (UIC)](https://www.uic.edu/) as a visiting scholar, advised by Prof. [Wei Tang](https://www.cs.uic.edu/~tangw/), working on collaborative research in video understanding and anomaly detection. Previously, I obtained my bachelor’s degree from Northwest A&F University in 2019.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+🛰️ My research interests include **video anomaly detection, traffic scene understanding, and multimodal learning, image generation**.
+
+📨 I welcome any discussion, collaboration, or academic exchange.
+
+<!-- 💻 I am currently seeking a faculty or postdoctoral position to further advance my research. If you are aware of any relevant opportunities, I would be very grateful if you could let me know. -->
+
 
 
 # 🔥 News
