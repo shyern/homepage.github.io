@@ -66,7 +66,7 @@ From November 2023 to November 2024, I joined the [University of Illinois Chicag
     <p style="margin: 0 0 10px 0;"><strong><u>Haoyue Shi</u></strong>, Le Wang, Sanping Zhou, Gang Hua, and Wei Tang</p>
     <p style="margin: 0 0 10px 0;">IEEE Transactions on Multimedia 2023</p>
     <p style="margin: 0;">
-      <a href="https://ieeexplore.ieee.org/document/10330089">Paper</a> |
+      <a href="https://ieeexplore.ieee.org/document/10330089">Paper</a>
       </p>
   </div>
 </div>
@@ -95,7 +95,7 @@ From November 2023 to November 2024, I joined the [University of Illinois Chicag
     <p style="margin: 0 0 10px 0;"><strong><u>Haoyue Shi</u></strong>, Le Wang, Nanning Zheng, Gang Hua, and Wei Tang</p>
     <p style="margin: 0 0 10px 0;">Pattern Recognition 2021</p>
     <p style="margin: 0;">
-      <a href="https://www.sciencedirect.com/science/article/pii/S0031320321005318">Paper</a> |
+      <a href="https://www.sciencedirect.com/science/article/pii/S0031320321005318">Paper</a>
       </p>
   </div>
 </div>
@@ -109,7 +109,7 @@ From November 2023 to November 2024, I joined the [University of Illinois Chicag
     <p style="margin: 0 0 10px 0;"><strong><u>Haoyue Shi</u></strong>, Le Wang, Wei Tang, Nanning Zheng, and Gang Hua </p>
     <p style="margin: 0 0 10px 0;">BMVC 2020</p>
     <p style="margin: 0;">
-      <a href="https://www.bmvc2020-conference.com/assets/papers/0406.pdf">Paper</a> |
+      <a href="https://www.bmvc2020-conference.com/assets/papers/0406.pdf">Paper</a>
       </p>
   </div>
 </div>
