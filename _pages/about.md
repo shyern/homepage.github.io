@@ -45,7 +45,7 @@ From November 2023 to November 2024, I joined the [University of Illinois Chicag
 
 # 📝 Publications 
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/learning2024.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
+  <img src="images/learning2024.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Learning Anomalies with Normality Prior for Unsupervised Video Anomaly Detection</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Haoyue Shi</u></strong>, Le Wang, Sanping Zhou, Gang Hua, and Wei Tang</p>
@@ -60,7 +60,7 @@ From November 2023 to November 2024, I joined the [University of Illinois Chicag
 <hr />
 
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/abnormal2023.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
+  <img src="images/abnormal2023.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Abnormal Ratios Guided Multi-Phase Self-Training for Weakly-Supervised Video Anomaly Detection</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Haoyue Shi</u></strong>, Le Wang, Sanping Zhou, Gang Hua, and Wei Tang</p>
@@ -74,7 +74,7 @@ From November 2023 to November 2024, I joined the [University of Illinois Chicag
 <hr />
 
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/memory2023.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
+  <img src="images/memory2023.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Memory-augmented appearance-motion network for video anomaly detection</h3>
     <p style="margin: 0 0 10px 0;">Le Wang, Junwen Tian, Sanping Zhou, <strong><u>Haoyue Shi</u></strong>, Gang Hua, and Wei Tang</p>
@@ -89,7 +89,7 @@ From November 2023 to November 2024, I joined the [University of Illinois Chicag
 <hr />
 
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/loss2021.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
+  <img src="images/loss2021.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Loss functions for pose guided person image generation</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Haoyue Shi</u></strong>, Le Wang, Nanning Zheng, Gang Hua, and Wei Tang</p>
@@ -103,7 +103,7 @@ From November 2023 to November 2024, I joined the [University of Illinois Chicag
 <hr />
 
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/loss2020.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
+  <img src="images/loss2020.png" alt="sym" style="width: 200px; height: 100px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Loss Functions for Person Image Generation</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Haoyue Shi</u></strong>, Le Wang, Wei Tang, Nanning Zheng, and Gang Hua </p>
@@ -124,10 +124,10 @@ From November 2023 to November 2024, I joined the [University of Illinois Chicag
 - President’s Scholarship (Northwest A&F University), 2018
 - National Endeavor Scholarship (Northwest A&F University), 2016 & 2017
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2019.09 - 2025.07 (now)*, Xi’an Jiaotong University, Ph.D. in Control Science and Engineering
 - *2023.11 – 2024.11*, University of Illinois Chicago, Visiting Scholar in Computer Science
-- *2015.09 – 2019.07*, Northwest A&F University, B.E. in Software Engineering
+- *2015.09 – 2019.07*, Northwest A&F University, B.E. in Software Engineering -->
 
 # 📖 Professional services
 ## Conference Reviewer
